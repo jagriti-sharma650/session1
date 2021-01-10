@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
-
-print("Hello world")
+a=10
+b=40
+print("sum is",a+b)
